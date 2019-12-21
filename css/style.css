@@ -1,0 +1,95 @@
+
+body {
+    background-image: url(../img/5-dots.png);
+}
+
+
+.title {
+    max-width:960px;
+    margin:auto;
+    clear:both;
+}
+
+.namebox {
+    float:left;
+    background-color: #4aaaa5;
+    display: block;
+    font-size: 30px;
+    color:white;
+    padding:15px;
+    margin:auto;
+}
+
+
+.navclass {
+    list-style-type: none;
+    float:right;
+
+
+}
+
+.navclass li {
+    display:inline;
+    text-align: center;
+    padding: 15px;
+
+}
+
+.navclass li a {
+    text-align: right;
+    text-decoration: none;
+
+}
+
+.paragraph {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 900px;
+    margin:auto;
+    padding:10px;
+    background-color: white;
+}
+
+.paragraph img {
+    display:block;
+    height:auto;
+    width: 300px;
+    float:left;
+    padding: 10px;
+}
+
+.paragraph h2 {
+    color:#4aaaa5
+}
+
+.portfolio{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:auto;
+    background-color: white;
+}
+
+.portfolio h2{
+    color:#4aaaa5;
+
+}
+
+.contact {
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 900px;
+    margin:auto;
+    padding:10px;
+    background-color: white;
+}
+  
+
+.footer{
+    position:fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    color: white;
+    height: 2rem;
+    border-top: 8px solid #4aaaa5;
+    text-align: center;
+}
+
