@@ -1,2 +1,2 @@
 # aroldoreyes2.github.io
-Portfolio using BootStrap
+This is my Portfolio using BootStrap.
