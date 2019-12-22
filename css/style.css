@@ -66,6 +66,7 @@ body {
 
 .portfolio{
     font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
     max-width: 960px;
     margin:auto;
     background-color: white;
@@ -74,6 +75,10 @@ body {
 .portfolio h2{
     color:#4aaaa5;
 
+}
+
+.contact h2{
+    color:#4aaaa5
 }
 
 .contact {
