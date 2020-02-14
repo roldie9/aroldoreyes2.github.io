@@ -43,12 +43,14 @@ body {
 
 }
 
-.links {
+.info {
     font-family: Arial, Helvetica, sans-serif;
     max-width: 900px;
     margin:auto;
     padding:10px;
     background-color: white;
+    text-align: justify;
+    list-style: none;
 }
 
 .paragraph {
@@ -59,7 +61,7 @@ body {
     background-color: white;
 }
 
-.paragraph img {
+.info img {
     display:block;
     height:auto;
     width: 300px;
